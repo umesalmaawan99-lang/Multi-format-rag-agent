@@ -14,4 +14,5 @@ pypdf
 python-docx
 openpyxl
 pandas
+streamlit-lottie
 
